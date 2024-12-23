@@ -1,0 +1,2 @@
+# smokeshop
+GitHub Pages
